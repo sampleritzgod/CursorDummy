@@ -50,10 +50,10 @@ No installation required.
 
 ---
 ## Screenshot
-![alt text](<screenshot/Screenshot 2026-02-07 at 7.51.47 AM.png>)
-![alt text](<screenshot/Screenshot 2026-02-07 at 7.51.58 AM.png>)
-![alt text](<screenshot/Screenshot 2026-02-07 at 7.52.07 AM.png>)
-![alt text](<screenshot/Screenshot 2026-02-07 at 7.52.18 AM.png>)
+![hero](<screenshot/Screenshot 2026-02-07 at 7.51.47 AM.png>)
+![Features](<screenshot/Screenshot 2026-02-07 at 7.51.58 AM.png>)
+![Testimonials](<screenshot/Screenshot 2026-02-07 at 7.52.07 AM.png>)
+![Footer](<screenshot/Screenshot 2026-02-07 at 7.52.18 AM.png>)
 ## Author
 
 Made by Maheta Abhay
